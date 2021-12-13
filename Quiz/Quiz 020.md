@@ -1,2 +1,2 @@
-![](Quiz 020.png)
-![](Quiz 020_flow.png)
+![](Quiz_020.png)
+![](Quiz_020_flow.png)
